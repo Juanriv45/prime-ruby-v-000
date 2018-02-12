@@ -9,5 +9,5 @@ def prime?(test_num)
     end
     i-=1
   end
-  collection
+  collection.length > 2
 end
