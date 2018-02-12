@@ -7,7 +7,7 @@ end
 
 def trial_division(number)
   test_number = (number / 2 )
-  texs number - 1 > 
+  texs number - 1 >
 end
 
 # def trial_division(n):
