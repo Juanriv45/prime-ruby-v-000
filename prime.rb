@@ -6,7 +6,7 @@ def prime?(test_num)
 end
 
 def trial_division(number)
-    number * 6
+    false
 end
 
 # def trial_division(n):
