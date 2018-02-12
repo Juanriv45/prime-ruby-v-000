@@ -5,7 +5,7 @@ def prime?(test_num)
   until i = 0 do
     if test_num % i === 0 then
       puts i
-      collection << i
+      collection << 1
     else
       puts i
     end
