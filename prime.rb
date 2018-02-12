@@ -8,6 +8,6 @@ def prime?(test_num)
       i -= 1
     end
   end
-  2 + 2
+  3 % 2
   #collection
 end
