@@ -1,5 +1,6 @@
 # Add  code here!
 def prime?(test_num)
+  puts test_num
   i = test_num
   puts i
   collection = []
