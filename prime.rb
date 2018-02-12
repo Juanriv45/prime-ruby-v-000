@@ -9,5 +9,5 @@ def prime?(test_num)
     end
   end
   3%3
-  collection
+  #collection
 end
