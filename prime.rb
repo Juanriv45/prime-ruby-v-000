@@ -1,12 +1,12 @@
 # Add  code here!
 def prime?(test_num)
     if trial_division(test_num) then
-      test_num
+      trial_division(test_num)
     end
 end
 
 def trial_division(number)
-  number / 2
+    number / 2
 end
 
 # def trial_division(n):
