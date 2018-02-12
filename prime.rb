@@ -9,9 +9,6 @@ def prime?(test_num)
     i-=1
   end
 
-if collection.length == 2
-  puts "#{test_num}"
-end
-
+collection.length == 2
 
 end
