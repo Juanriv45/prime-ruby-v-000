@@ -4,6 +4,7 @@ def prime?(test_num)
   collection = []
   until i = 0 do
     if test_num % i === 0 then
+      puts i
       collection << i
     end
     i -= 1
