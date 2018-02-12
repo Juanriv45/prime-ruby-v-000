@@ -2,6 +2,8 @@
 def prime?(test_num)
     if trial_division(test_num) then
       trial_division(test_num)
+    else
+      this wasnt right
     end
 end
 
