@@ -10,8 +10,8 @@ def prime?(test_num)
   end
 
   if collection.length == 2
-    collection
-    test_num
+    puts collection
+    puts test_num
     true
   end
 end
