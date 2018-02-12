@@ -1,6 +1,6 @@
 # Add  code here!
 def prime?(array)
-  array.each |x| do
+  array.each |x|
     if trial_division(x) then
       n
     end
