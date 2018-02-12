@@ -6,6 +6,7 @@ def prime?(test_num)
     if test_num % i === 0 then
       puts i
       collection << i
+      puts i
     end
     i-=1
   end
