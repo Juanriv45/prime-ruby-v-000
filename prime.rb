@@ -17,7 +17,7 @@ def trial_division(n)
           a.append(2)
           n/=2
       f=3
-      while n > 1:
+      while n > 1
           if (n % f == 0)
               a.append(f)
               n /= f
