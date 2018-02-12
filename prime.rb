@@ -11,14 +11,14 @@ def trial_division(number)
     number<4
 end
 
-def trial_division(n):
+def trial_division(n)
       a = []
-      while n%2 == 0:
+      while n%2 == 0
           a.append(2)
           n/=2
       f=3
       while n > 1:
-          if (n % f == 0):
+          if (n % f == 0)
               a.append(f)
               n /= f
           else:
