@@ -8,7 +8,7 @@ def prime?(test_num)
 end
 
 def trial_division(number)
-    number<2
+    number<4
 end
 
 # def trial_division(n):
