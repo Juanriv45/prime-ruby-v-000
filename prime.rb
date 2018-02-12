@@ -6,8 +6,7 @@ def prime?(test_num)
 end
 
 def trial_division(number)
-  test_number = (number / 2 )
-  texs number - 1 >
+  number / 2
 end
 
 # def trial_division(n):
