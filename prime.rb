@@ -1,10 +1,11 @@
 # Add  code here!
 def prime?(test_num)
-    if trial_division(test_num) then
-      trial_division(test_num)
+    if test_num % 2 == 0 then
+
     else
-      "this wasnt right"
+        false
     end
+
 end
 
 def trial_division(number)
