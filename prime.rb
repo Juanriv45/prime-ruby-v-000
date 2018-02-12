@@ -2,7 +2,7 @@
 def prime?(test_num)
   i = test_num
   collection = []
-  until i = 0 do
+  until i = 0
     collection << 1
     if test_num % i === 0 then
       puts i
