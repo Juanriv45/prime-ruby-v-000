@@ -21,7 +21,7 @@ def trial_division(n)
           if (n % f == 0)
               a.append(f)
               n /= f
-          else:
+          else
               f += 2
       return a
 end
