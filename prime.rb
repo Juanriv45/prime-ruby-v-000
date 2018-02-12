@@ -10,9 +10,7 @@ def prime?(test_num)
     i-=1
   end
 
-  if collection.length == 2
-    puts collection
-    puts test_num
-    true
-  end
+collection.length == 2
+
+
 end
